@@ -2,9 +2,9 @@
 <a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/bannertrpt.png" style="max-width :100%">
 </p>
 
-:star: I'm a self-taught FrontEnd developer with a background in Civil Engineering, 2D/3D Concept Art, and Business. As one can tell from my background, I enjoy learning new skills and implementing beautiful designs in my creations.
+- :star: I'm a self-taught FrontEnd developer with a background in Civil Engineering, 2D/3D Concept Art, and Business. As one can tell from my background, I enjoy learning new skills and implementing beautiful designs in my creations.
 
-:star: Currently, I'm learning React JS, Ruby on Rails and Python to add to my Backend skills.
+- :star: Currently, I'm learning React JS, Ruby on Rails and Python to add to my Backend skills.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
