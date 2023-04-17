@@ -7,6 +7,8 @@
 <th>
 <a href="<a href="https://github.com/athenacats/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=athenacats&show_icons=true&theme=tokyonight" style="max-width: 100%;"></a>
+</th>
+<th>
 <a href="<a href="https://github.com/athenacats/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacats&hide_progress=true" style="max-width: 100%;"></a>
 </th>
