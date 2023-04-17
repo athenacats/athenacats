@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/bannertrpt.png" style="max-width :100%">
+<a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/bannercropped.png" style="max-width :100%">
 </p>
 
 <table>
