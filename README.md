@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/bannernewtrpt.png" style="max-width :100%">
+<a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/hinew.png" style="max-width :100%">
 </p>
 
 - :star: Working on projects that will make people's daily lives easier
