@@ -31,6 +31,8 @@
 </thead>
 </table>
 
+[![chena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athenacats)](https://github.com/athenacats/github-readme-stats)
+
 ### Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=africa-themed-tic-tac-toe)](https://github.com/athenacats/africa-themed-tic-tac-toe)
