@@ -2,7 +2,7 @@
 <a href="https://github.com/athenacats/" rel="no-follow"><img width="80%" alt="Hello! I'm Esther. Engineer, Designer and Web Developer" src="images/bannernewtrpt.png" style="max-width :100%">
 </p>
 
-- :star: Currently working on projects that will make my daily life easier
+- :star: Working on projects that will make people's daily lives easier
 
 - :star: I'm a Fullstack developer with a background in Civil Engineering, 2D/3D Concept Art, and Business. I enjoy learning new skills and implementing beautiful designs in my web creations
 
