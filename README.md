@@ -35,6 +35,6 @@
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=africa-themed-tic-tac-toe)](https://github.com/athenacats/africa-themed-tic-tac-toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=todo-list)](https://github.com/athenacats/tod-list)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=calculator)](https://github.com/athenacats/calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=africa-themed-tic-tac-toer)](https://github.com/athenacats/africa-themed-tic-tac-toe)
