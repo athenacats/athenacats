@@ -6,7 +6,7 @@
 
 - :star: I'm a Fullstack developer with a background in Civil Engineering, 2D/3D Concept Art, and Business. I enjoy learning new skills and implementing beautiful designs in my web creations
 
-- :star: Currently learning React, Node.js, Ruby on Rails and Python
+- :star: Currently learning Angular, React, Node.js, Ruby on Rails and Python
 
 - :star: I love listening to tech, sci-fi, horror and dystopia audiobooks as I code, and seeing the growing parallels between fiction and reality blows my mind
 
