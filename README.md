@@ -40,6 +40,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=freakylinkweb)](https://github.com/athenacats/freakylinkweb)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=weatherapp)](https://github.com/athenacats/weatherapp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=todo-list)](https://github.com/athenacats/todo-list)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=africa-themed-tic-tac-toe)](https://github.com/athenacats/africa-themed-tic-tac-toe)
