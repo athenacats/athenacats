@@ -18,11 +18,14 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 <table>
 <thead>
@@ -39,9 +42,9 @@
 
 ### Top Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=herculean-strength)](https://github.com/athenacats/herculean-strength)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=soma)](https://github.com/athenacats/soma)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=freakylinkweb)](https://github.com/athenacats/freakylinkweb)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=weatherapp)](https://github.com/athenacats/weatherapp)
 
