@@ -46,5 +46,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=soma)](https://github.com/athenacats/soma)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=freakylinkwp)](https://github.com/athenacats/freakylinkwp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=athenacats&repo=freakylinkweb)](https://github.com/athenacats/freakylinkweb)
 
